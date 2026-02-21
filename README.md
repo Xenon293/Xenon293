@@ -27,3 +27,11 @@
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Xenon293&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=Xenon293&theme=tokyonight&hide_border=true)
+---
+
+## 🚀 Projects
+
+- 📁 File Organizer – Python tool that automatically sorts files by type  
+- 🔐 (Upcoming) Password Strength Checker  
+- 🧠 (Upcoming) Log Analyzer CLI Tool  
