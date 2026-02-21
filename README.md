@@ -26,4 +26,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xenon293&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Xenon293&color=blue)
