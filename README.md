@@ -1,9 +1,9 @@
-# Hi, I'm Haniel 👋
+# Hi, I'm Haniel 
 
-🎯 Aspiring cybersecurity professional  
-💻 Focused on Python and system fundamentals  
-📚 Currently strengthening problem-solving skills  
-🚀 Building projects consistently  
+Aspiring cybersecurity professional  
+Focused on Python and system fundamentals  
+Currently strengthening problem-solving skills  
+Building projects consistently  
 
 ---
 
