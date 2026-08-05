@@ -33,5 +33,5 @@ Building projects consistently
 ## Projects
 
 - File Organizer – Python tool that automatically sorts files by type  
-- Upcoming) Password Strength Checker  
+- PyVault - A local encrypted password manager built with Python and Tkinter 
 - (Upcoming) Log Analyzer CLI Tool  
