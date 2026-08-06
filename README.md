@@ -7,7 +7,7 @@ Building projects consistently
 
 ## Connect with me
 
-[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/dorell-haniel-molejon-46184836a/)
 
 ---
 
