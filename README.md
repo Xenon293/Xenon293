@@ -13,9 +13,10 @@ Building projects consistently
 
 ## Tech Stack
 
-![Python](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -30,8 +31,8 @@ Building projects consistently
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com)
-![GitHub Streak](https://demolab.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Xenon293&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=Xenon293&theme=tokyonight&hide_border=true)
 
 ---
 
