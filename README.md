@@ -33,7 +33,6 @@ Building projects consistently
 ![Profile Views](https://komarev.com)
 ![GitHub Streak](https://demolab.com)
 
-
 ---
 
 ## Featured Projects
