@@ -1,37 +1,44 @@
-# Hi, I'm Haniel 
+# Hi, I'm Haniel
 
 Aspiring cybersecurity professional  
 Focused on Python and system fundamentals  
 Currently strengthening problem-solving skills  
 Building projects consistently  
 
+## Connect with me
+
+[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_URL_HERE)
+
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ## Currently Learning
 
-- Python deeper concepts (OOP, file handling, CLI tools)
+- Python advanced concepts (OOP, file handling, CLI tools)
 - Linux command line fundamentals
-- Basic cybersecurity principles
-- Writing cleaner, structured code
+- Core cybersecurity principles and frameworks
+- Clean, structured, and secure code architecture
 
 ---
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Xenon293&color=blue)
-![GitHub Streak](https://streak-stats.demolab.com?user=Xenon293&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com)
+![GitHub Streak](https://demolab.com)
+
 ---
 
-## Projects
+## Featured Projects
 
-- File Organizer – Python tool that automatically sorts files by type  
-- PyVault - A local encrypted password manager built with Python and Tkinter 
-- (Upcoming) Log Analyzer CLI Tool  
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**PyVault**](https://github.com/Xenon293/PyVault) | Local encrypted password manager with a Tkinter GUI. | `Python` `Tkinter` `Cryptography` | Active |
+| **File Organizer** | Automation tool that automatically sorts files by extension. | `Python` `OS Module` | Completed |
+| **Log Analyzer** | CLI tool to parse, filter, and extract security events from logs. | `Python` `Linux` | Upcoming |
