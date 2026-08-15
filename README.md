@@ -31,7 +31,7 @@ Building projects consistently
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Xenon293&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xenon293)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=Xenon293&color=blue)
 
 ---
